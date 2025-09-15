@@ -115,7 +115,7 @@ function App() {
         </div>
       </main>
       <footer>
-        <p>© {new Date().getFullYear()} Image to PDF Converter</p>
+        <p>© {new Date().getFullYear()} Image to PDF Converter by Adarsh Tiwari</p>
       </footer>
     </div>
   )
